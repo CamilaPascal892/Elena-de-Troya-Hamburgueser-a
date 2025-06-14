@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1733253720 source:c:\users\w10-pc\onedrive\escritorio\uni\parcial de\camila\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<chrono>
+	<thread>
+	<map>
+	<algorithm>
+	<fstream>
+	<sstream>
+	"funciones.h"
+
+1733254128 source:c:\users\w10-pc\onedrive\escritorio\uni\parcial de\camila\funciones.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<chrono>
+	<thread>
+	<map>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<vector>
+	"structs.h"
+	"global.h"
+
+1733253787 c:\users\w10-pc\onedrive\escritorio\uni\parcial de\camila\structs.h
+
+1733253787 c:\users\w10-pc\onedrive\escritorio\uni\parcial de\camila\funciones.h
+	"structs.h"
+
+1733254128 c:\users\w10-pc\onedrive\escritorio\uni\parcial de\camila\global.h
+
+1733254128 source:c:\users\usuario\downloads\camila (variable global)\camila\funciones.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<chrono>
+	<thread>
+	<map>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<vector>
+	"structs.h"
+	"global.h"
+
+1733253786 c:\users\usuario\downloads\camila (variable global)\camila\structs.h
+
+1733254128 c:\users\usuario\downloads\camila (variable global)\camila\global.h
+
+1733254220 source:c:\users\usuario\downloads\camila (variable global)\camila\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<chrono>
+	<thread>
+	<map>
+	<algorithm>
+	<fstream>
+	<sstream>
+	"funciones.h"
+	"global.h"
+
+1733253924 c:\users\usuario\downloads\camila (variable global)\camila\funciones.h
+	"structs.h"
+

@@ -1,0 +1,6 @@
+Hamburguesac, 8000, 200
+Hamburguesas, 3000, 200
+Hamburguesasg, 200, 200
+Panchos, 200, 100
+PapasF, 100, 20
+Gasesosa, 100, 100
