@@ -1,0 +1,51 @@
+CARRERA: Tecnicatura Superior en Programación
+MATERIA: Programación I
+ALUMNA: Camila Pascal
+CIUDAD Y FECHA: Coronel Pringles – 17 de Diciembre 2024 
+
+
+
+ELENA DE TROYA HAMBURGUESERÍA - FUNCIONAMIENTO
+La creación del presente programa está determinada la ne-cesidad de tener dentro de mi propia casa de comidas un progra-ma robusto y completo que permita tener una mayor organización del stock de ingredientes y productos así como también alcanzar los cálculos de las cuatro sucursales y las personas que traba-jan en ellas. 
+Dado que se utiliza una amplia gama productos e ingredien-tes se propone la elaboración de un ordenador que brinde la oportunidad de ser más productivos y organizados. Se fomenta que nuestros clientes se sumen a nuestro club Elena de Troya para comenzar a destacarlos como VIP. Se considera que no sólo cumple con los estándares de nuestro proyecto comercial, sino que los supera.
+Es de suma importancia destacar que se presentan líneas de códigos trabajadas a lo largo de la materia como son: do, for, switch, estructuras, vectores, funciones y achivo. Este trabajo revela de manera completa y organizada un programa que más allá de cumplir con los requisitos de aprobación, sino que resuelve, es atractivo, dinámico y pensado para poder establecer los in-gresos de cajeros, stock tanto de ingredientes como de produc-tos. Luego de haber estudiado nuestro mercado establecimos que nuestro programa puede brindarnos organización en todas nues-tras sucursales y añadir clientes actuales, potenciales y al personal que trabaja con nosotras.
+Características específicas de utilización:
+Al comienzo se presenta una versión animada de “Bienve-nido a mi casa de comidas rápidas. Nosotros sentimos: AMOR POR LAS HAMBURGUESAS!”
+En segunda instancia aparece un Menú que contiene las si-guientes opciones:
+1.	Agregar producto
+2.	Mostrar Stock
+3.	Vender comida
+4.	Agregar cliente
+5.	Mostrar clientes
+6.	Facturar producto
+7.	Buscar producto
+8.	Eliminar producto
+9.	Agregar ingrediente
+10.	Mostrar inventario
+11.	Actualizar producto
+12.	Eliminar ingrediente
+13.	Aplicar descuento
+14.	Marcar cliente VIP
+15.	Generar informe de ventas
+16.	Registrar gasto operativo
+17.	Agregar cajero
+18.	Mostrar ayuda interactiva
+19.	Mostrar ganancias diarias
+20.   Mostrar historial de ventas de productos
+21.   Mostrar productos más vendidos
+22.   Modificar nombre del cliente
+23.  Aparecerá un cartel que dirá “Saliendo del sistema”
+default
+El usuario puede ingresar cualquiera de estas opciones. En primera medida, si no sabe cómo utilizar el programa puede se-leccionar la opción 21 que va a emitir el siguiente cartel: “Ayuda interactiva: Este es el sistema de gestión de la hambur-guesería. Seleccione una opción: y se explica cada una de las opciones”.
+Por otra parte, debemos destacar en la explicación que hay elementos del menú que están completamente asociados para que funcionen. ¿Qué queremos decir con esto? Existen componentes del programa que si o si se deben cargar para que después las opciones puedan ejecutarse. 
+Si no agregamos un cliente, la lista de los mismos no va a aparecer y por lo tanto no vamos a poder actualizar los nombres de nuestros compradores. Hay otras cuestiones del programa que también se encuentran vinculadas. Ejemplos:
+a.	Agregar cliente - Mostrar clientes - marcar cliente VIP.
+c.	Agregar ingrediente (solo una palabra) - Mostrar in-ventario - Eliminar ingredientes - Agregar descuento por pro-ducto.
+d.	Vender comida - Facturar.
+e.	Pagar deudas - Registrar gastos.
+A su vez ofrecemos la posibilidad de que el usuario pueda agregar cajeros con su nombre con la finalidad de saber la can-tidad de personas que trabajan con nosotros.
+También queremos añadir una explicación muy importante pa-ra quien ha realizado este programa que tiene que ver con la facturación. Dado que se solicita al usuario ingresar la sucur-sal donde se está facturando y registrando gastos para luego en base a las cuatro sucursales que disponemos (Coronel Pringles - Coronel Suárez - Coronel Dorrego y Tres Arroyos) podremos de-terminar cómo está haciendo el funcionamiento o rendimiento de cada una. A su vez, se puede generar un informe de ventas que va a poner de manifiesto todo lo que se realiza en cada sucur-sal.
+A su vez, algo muy importante en nuestro sistema de ventas es el identificador de clientes VIP (algo que hay que hacer anteriormente) para poder registrarlo y en el caso de realizar promociones él acceda a futuros descuentos.
+También es pertinente remarcar que se está utilizando un archivo (llamado new) que tiene algunos productos añadidos. Este archivo SÓLO SE VINCULA con los productos (solo admite una palabra) dado que los ingredientes tienen su propio inventario. 
+Por último, si el usuario desea salir del sistema sólo tiene que seleccionar la opción 23. Esperamos que sea de su agrado. 
+ 
